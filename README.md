@@ -64,4 +64,3 @@ To confirm everything is working:
 
 * **Test Task**: In Task Scheduler, right-click your new task and select **Run**. If the "Last Run Result" says `(0x0)`, the automation is successful.
 
-Would you like me to add a "logging" feature to the script so it creates a text file telling you if the daily update succeeded or failed?
